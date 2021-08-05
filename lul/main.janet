@@ -1,4 +1,4 @@
-(use freja-jaylib)
+(use jaylib)
 
 (defn main [& args]
   (init-window 800 600 "wat")
